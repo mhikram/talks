@@ -37,7 +37,7 @@
 	* Achievements tied to KPIs is low value 
 	* Develop Autonomy
 	* Encourage LOTS and LOTS of Criticisim, especially from employees lower down in the hiearchy.
-	* If your trainee is not comfortable throwing an F-Bomb, you are not get frank and honest feedback. 
+	* [If your trainee is not comfortable throwing an F-Bomb, you are not get frank and honest feedback.](https://www.fastcompany.com/90442773/here-is-why-you-should-swear-at-work-according-to-science) 
 * Red Teaming
 	* Seek and Destroy any weakness
 * Startup or bust
