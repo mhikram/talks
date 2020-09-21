@@ -4,7 +4,6 @@
 ## What do you think is the main difference between ecommerce and old commerce
 * Supply Chain
 * Reach
-* 
 
 ### Relationship
 
