@@ -14,12 +14,12 @@
 ### Steps
 #### Understand: Discover the business opportunity, the audience, the competition, the value proposition, and define metrics of success.
 ##### Gather Data
-###### Users not Data
-###### But don't over do it
+* Users not Data
+* But don't over do it
 
 #### Diverge: Explore, develop and iterate creative ways of solving the problem, regardless of feasibility.
-##### Make a Mess not Meetings
-##### Crazy Eights (Eight Crazy ideas over 1 well thought out idea)
+* Make a Mess not Meetings
+* Crazy Eights (Eight Crazy ideas over 1 well thought out idea)
 
 #### Converge: Identify ideas that fit the next product cycle and explore them in further detail through storyboarding.
 
